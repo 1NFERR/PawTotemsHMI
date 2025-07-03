@@ -1,0 +1,9 @@
+{
+  "current": {},
+  "remote": {
+	"sign_no_required": true, 
+    "type": "dynamic_repo",
+    "url": "https://1nferr.github.io/PawTotemsHMI/"
+  },
+  "formatVersion": 1
+}
