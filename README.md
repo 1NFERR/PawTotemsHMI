@@ -19,5 +19,5 @@ PawTotems поддерживает обновления через [DynamicPack]
 
 ![1st](https://github.com/user-attachments/assets/1e9e5800-f13d-4d4f-9c91-631ed622c328)
 
-2. Открыть архив, открыть папку PawTotems-main, папку PawTotems перенести в папку resourcepacks.
+2. Открыть архив, открыть папку PawTotemsHMI-main, папку PawTotemsHMI перенести в папку resourcepacks.
 ![2nd](https://github.com/user-attachments/assets/0838796d-2ef7-4523-8987-9458e6b626f5)
