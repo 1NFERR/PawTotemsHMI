@@ -1,1 +1,1 @@
-{"formatVersion": 1, "build": 9, "name": "PawTotemsHMI", "contents": [{"id": "pack", "url": "content.json", "hash": "57d03fa7e196fa4ca31f1f4074388343bb490f1d", "required": true, "name": "PawTotemsHMI"}]}
+{"formatVersion": 1, "build": 10, "name": "PawTotemsHMI", "contents": [{"id": "pack", "url": "content.json", "hash": "3ec004394d456bdceb6971732587fcfa40dee926", "required": true, "name": "PawTotemsHMI"}]}
